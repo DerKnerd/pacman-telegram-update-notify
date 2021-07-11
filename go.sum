@@ -1,0 +1,8 @@
+github.com/Jguer/go-alpm/v2 v2.0.6 h1:VLavW5qFk/TJRHT3Gg7ClDukU4MNWdfkWM9yLxVkYyQ=
+github.com/Jguer/go-alpm/v2 v2.0.6/go.mod h1:zU4iKCtNkDARfj5BrKJXYAQ5nIjtZbySfa0paboSmTQ=
+github.com/Morganamilo/go-pacmanconf v0.0.0-20210502114700-cff030e927a5 h1:TMscPjkb1ThXN32LuFY5bEYIcXZx3YlwzhS1GxNpn/c=
+github.com/Morganamilo/go-pacmanconf v0.0.0-20210502114700-cff030e927a5/go.mod h1:Hk55m330jNiwxRodIlMCvw5iEyoRUCIY64W1p9D+tHc=
+github.com/go-telegram-bot-api/telegram-bot-api v4.6.4+incompatible h1:2cauKuaELYAEARXRkq2LrJ0yDDv1rW7+wrTEdVL3uaU=
+github.com/go-telegram-bot-api/telegram-bot-api v4.6.4+incompatible/go.mod h1:qf9acutJ8cwBUhm1bqgz6Bei9/C/c93FPDljKWwsOgM=
+github.com/technoweenie/multipartstreamer v1.0.1 h1:XRztA5MXiR1TIRHxH2uNxXxaIkKQDeX7m2XsSOlQEnM=
+github.com/technoweenie/multipartstreamer v1.0.1/go.mod h1:jNVxdtShOxzAsukZwTSw6MDx5eUJoiEBsSvzDU9uzog=
